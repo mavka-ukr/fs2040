@@ -5,4 +5,4 @@
 1. Make each state fully independent.
 2. Make all states connected by common economic zone (Ecozone) based on blockchain which no one can control.
 3. Take tax from each transaction on the blockchain.
-4. Practice direct democracy based on your profile in the Ecozone.
+4. Take a part in direct democracy based on your profile in the Ecozone.
